@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  ##Hello everyone, my name is Jeff, a young student trying to be a good <strong>Full-Stack.</strong>.<br>
+  Hello everyone, my name is Jeff, a young student trying to be a good <strong>Full-Stack</strong>.<br>
   Currently in the second semester of the computer engineering course at the federal university of ceará
 </p>
 
